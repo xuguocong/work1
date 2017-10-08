@@ -1,0 +1,72 @@
+<html>
+  <body height="100%">
+    <head>
+	   <title>任务三</title>
+	   <meta charset="UTF-8" http-equiv="Content-Type" content="text/html;">
+	   <style type="text/css">
+	     
+	     .logo{
+		    padding-bottom:20px;
+			padding-right:20px;
+			padding-left:20px;
+            height:80px;
+            width:80px;
+         }
+         
+         .kuangjia{
+			width:100%;
+            border:1px solid #999;
+			display: inline-block; 
+            height: 460px; 
+            margin: 20px; 
+            background-color:#eee; 
+         }
+         
+         .left{
+		    margin:20px;
+			width:200px;
+			height:120px;
+            border:1px solid #999;
+            background-color:white;
+            float:left;			
+		 }
+		 
+		 .right{
+		    margin:20px;
+            background:white;
+            border:1px solid #999;
+			width:120px;
+			height:420px;
+            float:right;			
+		 }	
+		 
+		 .zhongjian{
+		    border:1px solid #999;
+			background:white;
+			min-height:100px;
+            margin:20px 160px 20px 240px;
+		 } 
+		 
+		 
+        </style>			
+	</head>
+	
+	
+	<div class="kuangjia">
+	    <div class="left">
+            <p><img src="./imagine/lingmeng.jpg" class="logo"  align="top"alt="图片丢失"/>emm</p>
+		</div>          
+    
+        <div class="right">
+            <img src="./imagine/lingmeng.jpg" class="logo" style="padding-top:20px;"alt="图片丢失"/>
+			<img src="./imagine/lingmeng.jpg" class="logo"alt="图片丢失"/>
+			<img src="./imagine/lingmeng.jpg" class="logo"alt="图片丢失"/>
+			<img src="./imagine/lingmeng.jpg" class="logo"alt="图片丢失"/>
+		</div>
+		
+		
+		<div class="zhongjian">
+		   <p>emmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm</p>
+	  </div>
+  </body>
+</html>
