@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html>
+<body style="margin:0px;">
+  <head>
+  <meta charset="UTF-8" http-equiv="Content-Type" content="text/html;">
+        <title>征婚广告</title>
+		<style type="text/css">
+		   #li{
+	          display:inline;
+	          float:right;
+	          height:50px;
+	          padding-right:30px;
+	          
+	       } 
+		   #ul{
+	           background-color:black;
+	           width:97.5%;
+	           position:absolute;
+	           top:0px;
+	       } 
+		   
+		   #daohang{color:#eee;line-height:50px}	
+			
+		   .txt{
+	           border-left:1px solid #999;
+	           border-top:1px solid #999;
+	           border-right:3px solid #444;
+	           border-bottom:3px solid #444;
+	           text-indent:2em;
+               margin: 20px;
+               background: white;
+               width: auto;
+               float: top;
+               line-height: 2.5em;
+           }
+
+		   .zhengwen{
+		       width:60%;
+			   position:absolute;
+			   top:20px;
+			   left:20px;
+			   float:left;
+			   height:5020px;
+			}
+			   
+			.celan{
+			   height:auto;
+			   position:absolute;
+			   right:20px;
+			   top:20px;
+			   width:37%;
+			   float:right;
+			   height:800px;
+			}
+			
+			.banquan{
+			    background:black;  
+				text-align:center;
+				height:50px;  
+				color:white;
+			}
+			
+			#banquan{
+			   position:absolute;
+			   
+			   bottom:0px;
+			   margin:0px;
+			   top:3690px;
+			   width:100%;
+			}
+			
+			.dakuang{
+			  width:100%;
+			  position:absolute;
+			  top:65px;
+			  height:3650px;
+			  background:gray;
+			}
+            
+			.p{
+			  padding-left:20px;
+			  font-size:20px;
+			  }
+			
+			.zhaopian{
+			  widtht:50px;
+			  height:80px;
+			  float:left;
+			}
+			.zhaopian2{
+			  padding-left:20px;
+			  widtht:50px;
+			  height:80px;
+			}
+			
+			.box{
+			   margin-left:20px;
+			   margin-bottom:20px;
+			   border:1px solid #000;
+			   height:160px;
+			   width:120px;
+			   float:left;
+			}
+			
+			.wenzi{
+			   font-size:5px;
+			   padding-left:0px; 
+			}
+		</style>
+  </head>
+  
+	    <ul id=ul>
+		    <img src="./imagine/baidu.jpg"width="50px"height="50px" style="position:absolute;top:0px;left:0px"alt="图片丢失"/>
+	        <li id=li><a href="#征婚文章3" id=daohang>●牛批的朱大佬</a></li>
+		    <li id=li><a href="#图片" id=daohang>●图片</a></li>
+		    <li id=li><a href="#征婚文章2" id=daohang>●朱大佬优点</a></li>
+		    <li id=li><a href="#征婚文章1" id=daohang>●朱大佬简介</a></li>
+	    </ul>
+	 </br>
+	 </br>
+	 
+	 
+	 
+	 <div class="dakuang">
+	  <div class="zhengwen">
+	   <div class="txt" >
+	     <h2><a name="征婚文章1">朱大佬简介</a></h2>
+	     <h3>帅气的朱大佬<h3>
+	        <pre>作者：小香蕉  时间：2017.10.3</pre>
+              <p class="p">朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅</p>
+              <p class="p">朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅</p>
+              <p class="p">朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅</p>		 
+              <p class="p">朱大佬帅朱大佬帅朱大佬帅<a href="www.baidu.com">朱大佬帅(百度都知道....)</a>朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅</p>
+	          <p class="p">朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅</p>
+		    <h1>朱大佬帅照：</h1>
+	        <img src="./imagine/wuyanzu.jpg"/ class="zhaopian2"alt="图片丢失"/>
+		      <p class="p">朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅</p>
+              <p class="p">朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅</p>
+              <p class="p">朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅</p>		 
+              <p class="p">朱大佬帅朱大佬帅朱大佬帅<a href="www.baidu.com">朱大佬帅(百度都知道....)</a>朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅</p>
+	          <p class="p">朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅</p>
+	   </div>
+	 
+	 
+	 <div class="txt">
+	 <h2><a name="征婚文章2">朱大佬优点</a></h2>
+	 <h3>帅气的朱大佬<h3>
+	    <pre>作者：小香蕉  时间：2017.10.3</pre>
+	          <p class="p">朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅</p>
+              <p class="p">朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅</p>
+              <p class="p">朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅</p>		 
+              <p class="p">朱大佬帅朱大佬帅朱大佬帅<a href="www.baidu.com">朱大佬帅(百度都知道....)</a>朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅</p>
+	          <p class="p">朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅朱大佬帅</p>
+		<h1>朱大佬帅照：</h1>
+	    <img src="./imagine/wuyanzu.jpg"/ class="zhaopian2"alt="图片丢失"/>
+		  <ul>
+		     <li>朱大佬帅</li>
+			 <li>朱大佬很帅</li>
+			 <li>朱大佬真的帅</li>
+		  </ul>
+	 </div>
+	 
+	 <div class="txt"> 
+		<h2><a name="图片">图片</a></h2>
+		  <div class="box">
+		     <p class="wenzi">朱大佬帅照</p>
+             <img src="./imagine/wuyanzu.jpg"/ class="zhaopian2"alt="图片丢失"/>
+		  </div>
+		  
+		  <div class="box">
+		     <p class="wenzi">朱大佬帅照</p>
+             <img src="./imagine/wuyanzu.jpg"/ class="zhaopian2"alt="图片丢失"/>
+		  </div>
+		  
+		  <div class="box">
+		     <p class="wenzi">朱大佬帅照</p>
+             <img src="./imagine/wuyanzu.jpg"/ class="zhaopian2"alt="图片丢失"/>
+		  </div>
+		  
+		  <div class="box">
+		     <p class="wenzi">朱大佬帅照</p>
+             <img src="./imagine/wuyanzu.jpg"/ class="zhaopian2"alt="图片丢失"/>
+		  </div>
+		  
+		  
+		  <div class="box">
+		     <p class="wenzi">朱大佬帅照</p>
+             <img src="./imagine/wuyanzu.jpg"/ class="zhaopian2"alt="图片丢失"/>
+		  </div>
+		  
+		  
+		  
+		  <div class="box">
+		     <p class="wenzi">朱大佬帅照</p>
+             <img src="./imagine/wuyanzu.jpg"/ class="zhaopian2"alt="图片丢失"/>
+		  </div>
+		  
+		  
+		  
+		  <div class="box">
+		     <p class="wenzi">朱大佬帅照</p>
+             <img src="./imagine/wuyanzu.jpg"/ class="zhaopian2"alt="图片丢失"/>
+		  </div>
+		  
+		  
+		  
+		  <div class="box">
+		     <p class="wenzi">朱大佬帅照</p>
+             <img src="./imagine/wuyanzu.jpg"/ class="zhaopian2"alt="图片丢失"/>
+		  </div>
+		  
+		  <div class="box">
+		     <p class="wenzi">朱大佬帅照</p>
+             <img src="./imagine/wuyanzu.jpg"/ class="zhaopian2"alt="图片丢失"/>
+		  </div>
+		  
+		  <div class="box">
+		     <p class="wenzi">朱大佬帅照</p>
+             <img src="./imagine/wuyanzu.jpg"/ class="zhaopian2"alt="图片丢失"/>
+		  </div>
+		  
+		  <div class="box">
+		     <p class="wenzi">朱大佬帅照</p>
+             <img src="./imagine/wuyanzu.jpg"/ class="zhaopian2"alt="图片丢失"/>
+		  </div>
+		  
+		  <div class="box">
+		     <p class="wenzi">朱大佬帅照</p>
+             <img src="./imagine/wuyanzu.jpg"/ class="zhaopian2"alt="图片丢失"/>
+		  </div>
+		  
+		  <div style="clear:both"></div>
+          
+     </div>
+	
+	
+	 <div class="txt"> 
+     <h3><a name="征婚文章3">牛批的朱大佬</a></h3>		  
+	 <h3>世界帅哥榜<h3>
+	    <pre>作者：小香蕉  时间：2017.10.3</pre>
+		<ol>
+		    <li>朱大佬</li>
+			<li>朱大佬</li>
+			<li>朱大佬</li>
+		</ol>
+	    <caption>帅哥榜调查表</caption>
+		<table border="1" width=100%>
+		    <tr>
+			   <th>姓名</th>
+		       <th>认为谁最帅</th>
+		       <th>对该候选人的人评价</th>
+			</tr>
+			
+			<tr>
+			   <td>糖加三勺</td>
+	           <td>朱大佬</td>
+	           <td>帅</td>
+			</tr>
+			 
+			<tr>
+			   <td>小香蕉</td>
+	           <td>朱大佬</td>
+	           <td>帅</td>
+			</tr>
+			
+			<tr>
+			   <td>我吃大菠萝</td>
+	           <td>朱大佬</td>
+	           <td>帅</td>
+			</tr>
+			
+			<tr>
+			   <td>天残potato</td>
+	           <td>朱大佬</td>
+	           <td>帅</td>
+			</tr>
+			
+			<tr>
+			   <td>总节</td>
+	           <td colspan="2">朱大佬最帅</td>
+			</tr>
+	    </table>
+	  </div>
+	</div>
+
+	
+	<div class="celan">
+	  <div class="txt" style="padding-left:100px;height:700px;">	
+	  <h2 style="position:absolute;left:0;">美女报名</h2>
+	  </br>
+	  <h2>报名窗口</h2>
+		   <form>
+		      请输入邮箱<input type="text/password" />
+           </form>
+	          <p style="color:gray">邮箱格式请按要求输入</p>
+		   <form>
+		     请输入QQ<input type="text/password" />
+		   </form>
+		   <form>
+		     请输入微信<input type="text/password" />
+           </form>
+		      <p style="color:gray">请给出真实信息</p>
+		
+		
+		  <p>
+		  姓名：
+		  <label><input name="sex" type="radio" value="" />男</label>
+          <labe1><input name="sex" type="radio" value="" />女</labe1>
+          </p>
+		
+		
+          <p>		
+          城市：
+          <select>
+             <option value ="北京">北京</option>
+             <option value ="上海">上海</option>
+             <option value="浙江">浙江</option>
+             <option value="其他">其他</option>
+          </select>
+          </p>
+		
+		
+          <p>		
+          爱好：
+          <label><input type="checkbox" value="" />运动 </label> 
+          <label><input type="checkbox" value="" />体育 </label> 
+          <label><input type="checkbox" value="" />科学 </label> 
+          <label><input type="checkbox" value="" />朱大佬 </label>
+          </p>
+		
+		
+          <p> 		
+          个人描述：
+          <textarea rows="3" cols="20" style="width:50%;height:50px;">
+           你的个人描述
+          </textarea>	
+		  </p>
+		
+		
+		
+		  <p>
+          <button type="button" style="position:absolute;left:0;width:80%;height:40px;left:10%; background-color:blue">确认</button>		
+		  </p>
+	  </div>
+	  <div style="clear:both"></div>
+	 </div>
+	</div>
+	 <div  id="banquan">
+		<p class="banquan">版权所有&copy</p>
+	 </div>
+	
+  </body>
+</html>
