@@ -1,0 +1,59 @@
+<html>
+  <body>
+    <head>
+	    <title>任务四</title>
+		<meta charset="UTF-8" http-equiv="Content-Type" content="text/html;">
+	    <style type="text/css">
+		    .all{
+		      border:1px solid #999;
+			  width:auto;
+			  height:100%;
+			  background:white;
+			  overflow:auto;
+			}
+			
+			.juxing{
+			  width:400px;
+			  height:200px;
+			  background:gray;
+              text-align:center;
+			  position: absolute;
+			  top: 0; 
+			  left: 0; 
+			  bottom: 0; 
+			  right: 0; 
+			  margin: auto;
+			}
+			
+			
+			.left{
+			   position:absolute;
+			   left:0px;
+			   top:0px;
+			   background:yellow;
+			   width:50px;
+               height:50px;
+               border-radius:0 0 100% 0;
+			}
+      
+  
+            .right{
+			   position:absolute;
+			   right:0px;
+			   bottom:0px;
+			   background:yellow;
+			   width:50px;
+               height:50px;
+               border-radius:100% 0 0 0;
+			}  
+        </style>
+	</head>
+	
+	<div class="all">
+	    <div class="juxing">
+	       <div class="left"></div>
+		   <div class="right"></div>
+	    </div>
+	</div>
+  </body>
+</html>
